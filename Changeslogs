@@ -1,2 +1,17 @@
 Changes i made
-2025-09
+Part 1 WEDE5020 (August 2025)
+05 August 2025 – Created the initial project folder with basic HTML structure (index.html, about.html, services.html, contact.html, enquiry.html).
+07 August 2025 – Linked a simple styles.css file for basic colors and layout.
+09 August 2025 – Added navigation bar across all pages with placeholder links.
+11 August 2025 – Inserted a simple enquiry form (name, email, message) without advanced styling.
+13 August 2025 – Drafted the first project proposal (organization overview, goals, recommended pages, and budget).
+
+Part 2 improvements WEDE5020 (September 2025)
+02 September 2025 – Introduced responsive design using CSS media queries for desktop, tablet, and mobile layouts.
+05 September 2025 – Applied Asipiko brand styling (gold, black, white, and blue color scheme).
+08 September 2025 – Added service images (branding.jpg, webdesign.jpg, marketing.jpg) and descriptions to services.html.
+11 September 2025 – Created a new portfolio.html page with project showcases.
+14 September 2025 – Improved enquiry and contact forms for mobile usability (larger buttons, full-width inputs, better labels).
+18 September 2025 – Updated the contact page with official business address, phone numbers, email, and added an office image.
+20 September 2025 – Organized assets into images/ and css/ folders for cleaner structure.
+22 September 2025 – Completed documentation: added README.md with Overview, Harvard-style References, and this Changelog.
