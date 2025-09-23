@@ -30,3 +30,12 @@ W3Schools. (2025). Responsive Web Design Tutorial. Available at: https://www.w3s
  (Accessed: 22 September 2025).
 
 Screenshots
+Cellphone and Tablet
+
+<img width="797" height="532" alt="SAMSUNG TAB S9+" src="https://github.com/user-attachments/assets/ea823f67-bc1f-48c1-8ca9-faea969455b3" />
+
+<img width="454" height="559" alt="SAMSUNG S20 ULTRA" src="https://github.com/user-attachments/assets/ff4a5428-e7c3-4ac7-9cb1-163a7e96b1c6" />
+
+
+
+
