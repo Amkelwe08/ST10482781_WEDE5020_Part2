@@ -15,3 +15,4 @@ Part 2 improvements WEDE5020 (September 2025)
 18 September 2025 – Updated the contact page with official business address, phone numbers, email, and added an office image.
 20 September 2025 – Organized assets into images/ and css/ folders for cleaner structure.
 22 September 2025 – Completed documentation: added README.md with Overview, Harvard-style References, and this Changelog.
+24 September 2025 - Made comments inside the code to to have the understanding of whtas happening
